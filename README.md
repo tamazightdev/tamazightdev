@@ -10,3 +10,4 @@
 tamazightdev/tamazightdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![v1-image-1-tamazight-multilingual-word-game](https://github.com/user-attachments/assets/a73a0cfe-9fcf-4e09-b47b-88071c4afd56)
